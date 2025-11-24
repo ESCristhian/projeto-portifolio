@@ -84,7 +84,7 @@ main {
   object-fit: cover;
   overflow: hidden;
   border-radius: 50%;
-  border: 5px solid var(--fundo-card);
+  border: 1px solid var(--fundo-card);
   outline: 5px solid var(--destaque);
   display: block;
   margin: auto;
